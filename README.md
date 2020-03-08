@@ -53,4 +53,6 @@ Le dossier resources contient les vues ainsi que les ressources non compilées `
 
 Le dossier routes contient la définition des routes de l'application. 
 
-## Lire la suite [routing.md]
+___
+
+Lire la suite <routing.md>
